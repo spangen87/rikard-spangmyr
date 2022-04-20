@@ -7,22 +7,25 @@ body {
 
 /*Logo and navigation links */
 
-#logo {
-    float: left;
-    margin-left: 15px;
+.logo {
+    /*float: left;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 15px;
 }
 
 #nav-menu {
-    float: right;
+    display: inline-block;
     list-style: none;
-    margin-right: 40px;
+    margin-right: auto;
+    margin-left: auto;
     font-size: 150%;
-    line-height: 100px;
+    line-height: 50px;
 }
 
 #nav-menu li {
-    float: right;
+    float: left;
     margin-right: 40px;
 }
 
@@ -36,10 +39,30 @@ body {
     color: white;
 }
 
+nav {
+    text-align: center;
+}
+
 /*Hero image */
 
+/*Found solution at https://www.w3schools.com/howto/howto_css_image_responsive.asp */
 .responsive {
     max-width: 100%;
     height: auto;
 }
 
+/* Media queries */
+
+/* For screens 700px wide and down */
+@media screen and (max-width: 700px) {
+    #nav-menu {
+        margin-bottom: 20px;
+        line-height: 25px;
+        font-size: 100%;
+        font-weight: 600;
+    }
+
+    #nav-menu li {
+        margin-right: 25px;
+
+}
