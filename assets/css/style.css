@@ -5,6 +5,12 @@ body {
     color: #333;
 }
 
+#logo {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
 nav {
     float: right;
 }
