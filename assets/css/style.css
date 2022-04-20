@@ -69,6 +69,13 @@ nav {
     margin: 0 auto;
 }
 
+#why-ces {
+    height: 600px;
+    width: 100%;
+}
+
+
+
 /* Media queries */
 
 /* For screens 700px wide and down */
