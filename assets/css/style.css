@@ -5,13 +5,34 @@ body {
     color: #333;
 }
 
+/*Logo and navigation links */
+
 #logo {
     float: left;
     margin-left: 15px;
     margin-top: 15px;
 }
 
-nav {
+#nav-menu {
     float: right;
+    list-style: none;
+    margin-right: 40px;
+    font-size: 150%;
+    line-height: 100px;
+}
+
+#nav-menu li {
+    float: right;
+    margin-right: 40px;
+}
+
+#nav-menu a {
+    text-decoration: none;
+    color: #333;
+}
+
+#nav-menu a:hover {
+    background-color: #005ba1;
+    color: white;
 }
 
