@@ -50,6 +50,25 @@ nav {
     height: auto;
 }
 
+/* Section for Why ces */
+
+.left-ces {
+    width: 33%;
+    float: left;
+ 
+}
+
+.right-ces {
+    width: 33%;
+    float: right;
+
+}
+
+.center-ces {
+    width: 33%;
+    margin: 0 auto;
+}
+
 /* Media queries */
 
 /* For screens 700px wide and down */
