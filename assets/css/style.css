@@ -88,6 +88,13 @@ h2 {
     text-transform: uppercase;
 }
 
+/* About section */
+
+#about div {
+    width: 60%;
+    margin: 0 auto;
+}
+
 
 
 /* Media queries */
