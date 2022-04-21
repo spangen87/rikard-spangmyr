@@ -74,6 +74,16 @@ nav {
     width: 100%;
 }
 
+/* H2 styling */
+
+h2 {
+    letter-spacing: 5px;
+    color: #005ba1;
+    text-align: center;
+    text-decoration: solid;
+    text-transform: uppercase;
+}
+
 
 
 /* Media queries */
