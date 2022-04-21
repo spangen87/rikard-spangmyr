@@ -97,6 +97,11 @@ h2 {
     margin: 0 auto;
 }
 
+#video {
+    margin: 0 auto;
+    padding: 30px;
+}
+
 
 
 /* Media queries */
