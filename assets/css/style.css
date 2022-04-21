@@ -53,20 +53,24 @@ nav {
 /* Section for Why ces */
 
 .left-ces {
-    width: 33%;
+    width: 25%;
     float: left;
+    padding: 20px;
+    margin-left: 10%;
  
 }
 
 .right-ces {
-    width: 33%;
+    width: 25%;
     float: right;
-
+    padding: 20px;
+    margin-right: 10%;
 }
 
 .center-ces {
-    width: 33%;
+    width: 25%;
     margin: 0 auto;
+    padding: 20px;
 }
 
 #why-ces {
