@@ -135,10 +135,10 @@ h2 {
 /* For screens 900px wide and down */
 @media screen and (max-width: 900px) {
     .left-ces, .right-ces, .center-ces {
-        width: 60%;
+        width: 80%;
         height: auto;
-        margin-right: 20%;
-        margin-left: 20%;
+        margin-right: 10%;
+        margin-left: 10%;
         padding: 0;
            
     }
@@ -146,4 +146,15 @@ h2 {
     #why-ces {
         height: auto;
     }
+
+    #about div {
+        width: 80%;
+    }
+
+    .video {
+        overflow: hidden;
+        padding-top: 45%;
+        position: relative;   
+    }
+    
 }
