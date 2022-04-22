@@ -93,14 +93,14 @@ h2 {
 /* About section */
 
 #about div {
-    width: 60%;
+    width: 35%;
     margin: 0 auto;
 }
 
 /* Making iframe responsive. Credits to: https://www.benmarshall.me/responsive-iframes/ */
 .video {
     overflow: hidden;
-    padding-top: 35%;
+    padding-top: 20%;
     position: relative;   
 }
 
