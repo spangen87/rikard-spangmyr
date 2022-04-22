@@ -134,6 +134,12 @@ h2 {
     background-color: #005ba1;
     color: white;
     padding: 10px 20px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+#text {
+    font-family: Roboto, Sans-serif;
 }
 
 
