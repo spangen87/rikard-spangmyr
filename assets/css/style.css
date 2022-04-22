@@ -121,9 +121,6 @@ h2 {
     margin: 0 auto;
 }
 
-.contact-form {
-    
-}
 
 .input-field {
     width: 100%;
@@ -145,6 +142,11 @@ h2 {
 
     #nav-menu li {
         margin-right: 25px;
+    }
+
+    #contact {
+        width: 80%;
+        margin: 0 auto;
     }
 }    
 
