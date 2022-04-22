@@ -97,6 +97,7 @@ h2 {
     margin: 0 auto;
 }
 
+/* Making iframe responsive. Credits to: https://www.benmarshall.me/responsive-iframes/ */
 .video {
     overflow: hidden;
     padding-top: 35%;
