@@ -126,8 +126,14 @@ h2 {
     width: 100%;
     margin-bottom: 10px;
     border-radius: 5px;
-    border-color: #005ba1;
-    background-color: #e6e6e6;
+    background-color: #f2f2f2;
+}
+
+#submit {
+    border-radius: 5px;
+    background-color: #005ba1;
+    color: white;
+    padding: 10px 20px;
 }
 
 
