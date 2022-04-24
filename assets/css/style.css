@@ -156,6 +156,10 @@ footer {
     text-align: center;
 }
 
+address {
+    padding: 20px;
+}
+
 #social-media {
     text-align: center;
     clear: both;
