@@ -46,8 +46,12 @@ nav {
 
 /*Found solution at https://www.w3schools.com/howto/howto_css_image_responsive.asp */
 .responsive {
-    max-width: 100%;
-    height: auto;
+    width: 100%;
+    height: auto;   
+}
+
+.hero-image {
+    margin: 0 auto;
 }
 
 /* Section for Why ces */
