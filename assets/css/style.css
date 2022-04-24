@@ -146,6 +146,15 @@ h2 {
     font-family: Roboto, Sans-serif;
 }
 
+/* Footer */
+
+footer {
+    display: block;
+    background-color: #f2f2f2;
+    height: 200px;
+    width: 100%;
+    border-top: #333;
+}
 
 
 /* Media queries */
