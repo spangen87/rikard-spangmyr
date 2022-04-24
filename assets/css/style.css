@@ -156,6 +156,10 @@ footer {
     border-top: #333;
 }
 
+address {
+    float: left;
+    margin-left: 5%;
+}
 
 /* Media queries */
 
