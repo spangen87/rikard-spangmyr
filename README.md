@@ -13,6 +13,17 @@ The target for this site is other companies such as real estate owners, schools,
 #### Hero image
 - An image that covers the full width of the site and that is fully responsive. 
 - This section gives the user a feel for the quality of the locks and what high end finishes that are available.
+
+#### Why CES?
+- Three sections with a picture to each section. Shows what is unique with this lock and what safety functions there is.
+- Gives the user a quick overview with short text and descriptive images.
+
+#### About
+
+#### Contact Us
+
+#### Footer
+
 ## Testing
 
 ## Deployment
