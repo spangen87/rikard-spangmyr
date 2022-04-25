@@ -176,16 +176,20 @@ footer {
     height: 250px;
     width: 100%;
     text-align: center;
+    clear: both;
 }
 
 address {
     padding: 20px;
+    clear: both;
+    position: relative;
 }
 
 #social-media {
     text-align: center;
     clear: both;
     margin-bottom: 5%;
+    position: relative;
 }
 
 .some-links {
@@ -239,5 +243,26 @@ address {
         padding-top: 45%;
         position: relative;   
     }
-    
+
+    form {
+        width: 80%;
+        height: auto;
+        margin-right: 10%;
+        margin-left: 10%;
+        padding: 0;
+    }
+
+    #contact {
+        height: 600px;
+    }
+
+    .map {
+        overflow: hidden;
+        padding-top: 50%;
+        position: relative;
+        width: 80%;
+        margin-right: 10%;
+        margin-bottom: 20px;
+        margin-top: 20px;    
+    }
 }
