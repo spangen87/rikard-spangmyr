@@ -121,8 +121,30 @@ h2 {
 /* Contact section */
 
 #contact {
+    height: 600px;
+}
+form {
     width: 35%;
-    margin: 0 auto;
+    margin-left: 10%;
+    float: left;
+}
+
+.map {
+    overflow: hidden;
+    padding-top: 20%;
+    position: relative;
+    width: 40%;
+    margin-right: 10%;
+    float: right;    
+}
+
+.map iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
 }
 
 
