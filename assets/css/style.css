@@ -256,17 +256,16 @@ address {
 
 /* Media queries */
 
-/* For screens 550px wide and down */
-@media screen and (max-width: 550px) {
+/* For screens 600px wide and down */
+@media screen and (max-width: 600px) {
     #nav-menu {
         margin-bottom: 20px;
         line-height: 25px;
         font-size: 100%;
-        font-weight: 600;
     }
 
     #nav-menu li {
-        margin-right: 25px;
+       margin-right: 25px;
     }
 
     #contact {
