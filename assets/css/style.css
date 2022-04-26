@@ -106,17 +106,23 @@ h3 {
 /* About section */
 
 .left-about {
-    width: 38%;
+    width: 25%;
     float: left;
     padding: 5px;
     margin-left: 10%;
 }
 
 .right-about {
-    width: 38%;
+    width: 25%;
     float: right;
     padding: 5px;
     margin-right: 10%;
+}
+
+.center-about {
+    width: 25%;
+    margin: 0 auto;
+    padding: 5px;
 }
 
 /* Making iframe responsive. Credits to: https://www.benmarshall.me/responsive-iframes/ */
