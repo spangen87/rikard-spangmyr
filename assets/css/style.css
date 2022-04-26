@@ -78,7 +78,7 @@ nav {
 }
 
 #why-ces {
-    height: 600px;
+    height: auto;
     width: 100%;
 }
 
@@ -286,15 +286,22 @@ address {
         height: auto;
     }
 
-    #about div {
+    .left-about, .right-about, .center-about {
         width: 80%;
+        height: auto;
+        margin-right: 10%;
+        margin-left: 10%;
+        padding: 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
-
+    
     .video {
         overflow: hidden;
-        padding-top: 37%;
+        padding-top: 47%;
         position: relative;
         margin: 0 auto;
+        width: 100%;
     }
 
     form {
