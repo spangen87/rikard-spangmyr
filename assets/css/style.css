@@ -266,7 +266,7 @@ address {
     }
 
     #contact {
-        width: 80%;
+        width: 100%;
         margin: 0 auto;
     }
 }    
@@ -307,8 +307,8 @@ address {
     form {
         width: 80%;
         height: auto;
-        margin-right: 10%;
         margin-left: 10%;
+        margin-right: 10%;
         padding: 0;
     }
 
