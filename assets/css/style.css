@@ -12,6 +12,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 #nav-menu {
@@ -31,6 +32,8 @@ body {
 #nav-menu a {
     text-decoration: none;
     color: #333;
+    text-transform: uppercase;
+    letter-spacing: 5px;
 }
 
 #nav-menu a:hover {
@@ -40,6 +43,7 @@ body {
 
 nav {
     text-align: center;
+    background-color: #f2f2f2;
 }
 
 /*Hero image */
