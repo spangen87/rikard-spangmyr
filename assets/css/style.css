@@ -154,7 +154,7 @@ h3 {
 /* Making iframe responsive. Credits to: https://www.benmarshall.me/responsive-iframes/ */
 .video {
     overflow: hidden;
-    padding-top: 40%;
+    padding-top: 46%;
     position: relative;
     clear: both;   
 }
@@ -292,8 +292,9 @@ address {
 
     .video {
         overflow: hidden;
-        padding-top: 45%;
-        position: relative;   
+        padding-top: 37%;
+        position: relative;
+        margin: 0 auto;
     }
 
     form {
@@ -313,7 +314,7 @@ address {
         padding-top: 50%;
         position: relative;
         width: 80%;
-        margin-right: 10%;
+        margin-left: 10%;
         margin-bottom: 20px;
         margin-top: 20px;    
     }
