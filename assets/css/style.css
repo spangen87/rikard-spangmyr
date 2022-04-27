@@ -143,22 +143,25 @@ h3 {
 /*Contact confirmation page */
 
 #thank-you {
-    background-image: url("https://images2.imgbox.com/78/67/9ILBC24k_o.jpg");
     background-color: #333;
     height: 600px;
     text-align: center;
+    width: 700px;
+    margin: 0 auto;
+    border-radius: 50px;
+    margin-bottom: 50px;
 }
 
 #thank-you p {
     color: #f2f2f2;
     font-size: larger;
-    margin-top: 50px;
+    margin-top: 50px;    
 }
 
 #thank-you h2 {
     color: #f2f2f2;
     margin-top: 20px;
-    padding-top: 40px;
+    padding-top: 200px;
     font-size: xx-large;
 }
 
@@ -295,8 +298,7 @@ address {
         height: auto;
         margin-right: 10%;
         margin-left: 10%;
-        padding: 0;
-           
+        padding: 0;     
     }
 
     #why-ces {
@@ -348,4 +350,29 @@ address {
         margin-bottom: 20px;
         margin-top: 20px;    
     }
+
+    #thank-you {
+        background-color: #333;
+        height: 400px;
+        text-align: center;
+        width: 90%;
+        margin: 0 auto;
+        border-radius: 50px;
+        margin-bottom: 50px;
+    }
+
+    #thank-you p {
+        color: #f2f2f2;
+        font-size: larger;
+        margin-top: 50px;    
+    }
+    
+    #thank-you h2 {
+        color: #f2f2f2;
+        margin-top: 20px;
+        padding-top: 70px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: xx-large;
+    }  
 }
