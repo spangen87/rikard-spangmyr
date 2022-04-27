@@ -143,7 +143,7 @@ h3 {
 /*Contact confirmation page */
 
 #thank-you {
-    background-color: #333;
+    background-color: #f2f2f2;
     height: 600px;
     text-align: center;
     width: 700px;
@@ -153,20 +153,21 @@ h3 {
 }
 
 #thank-you p {
-    color: #f2f2f2;
+    color: #333;
     font-size: larger;
     margin-top: 50px;    
 }
 
 #thank-you h2 {
-    color: #f2f2f2;
+    color: #005ba1;
     margin-top: 20px;
     padding-top: 200px;
     font-size: xx-large;
 }
 
 #thank-you a {
-    color: #f2f2f2;
+    color: #005ba1;
+    text-decoration: none;
 }
 
 /* Making iframe responsive. Credits to: https://www.benmarshall.me/responsive-iframes/ */
@@ -352,7 +353,6 @@ address {
     }
 
     #thank-you {
-        background-color: #333;
         height: 400px;
         text-align: center;
         width: 90%;
@@ -362,13 +362,11 @@ address {
     }
 
     #thank-you p {
-        color: #f2f2f2;
         font-size: larger;
         margin-top: 50px;    
     }
     
     #thank-you h2 {
-        color: #f2f2f2;
         margin-top: 20px;
         padding-top: 70px;
         padding-left: 10px;
