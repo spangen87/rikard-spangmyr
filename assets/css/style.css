@@ -22,11 +22,15 @@ body {
     margin-left: auto;
     font-size: 150%;
     line-height: 50px;
+    text-align: center;
+    padding: 0
 }
 
+
 #nav-menu li {
-    float: left;
-    margin-right: 40px;
+    margin-right: 20px;
+    margin-left: 20px;
+    display: inline-block;
 }
 
 #nav-menu a {
@@ -265,7 +269,7 @@ address {
     }
 
     #nav-menu li {
-       margin-right: 25px;
+       margin-right: 10px;
     }
 
     #contact {

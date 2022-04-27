@@ -26,6 +26,11 @@ The target for this site is other companies such as real estate owners, schools,
 
 ## Testing
 
+## Bugs
+#### Solved
+- Found a bug that made ul in nav not completely in the center on smaller screens. I used dev tools to found that there was a padding to the left of the ul that made the distortion. Solved the problem by just adding padding 0 to the ul.
+
+
 ## Deployment
 
 ## Credits
