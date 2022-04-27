@@ -267,12 +267,15 @@ address {
 @media screen and (max-width: 600px) {
     #nav-menu {
         margin-bottom: 20px;
-        line-height: 25px;
-        font-size: 100%;
+        line-height: 50px;
+        font-size: 125%;
     }
 
     #nav-menu li {
-       margin-right: 10px;
+       width: 100%;
+       margin-right: 0;
+       margin-left: 0;
+       
     }
 
     #contact {
