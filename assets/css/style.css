@@ -136,6 +136,10 @@ h3 {
     padding: 5px;
 }
 
+#about p {
+    margin-bottom: 20px;
+}
+
 /*Contact confirmation page */
 
 #thank-you {
@@ -299,7 +303,7 @@ address {
         height: auto;
     }
 
-    .left-about, .right-about, .center-about {
+    .left-about, .right-about {
         width: 80%;
         height: auto;
         margin-right: 10%;
@@ -308,7 +312,13 @@ address {
         margin-top: 20px;
         margin-bottom: 20px;
     }
-    
+
+    .center-about {   
+        width: 80%;
+        margin: 20px 10% 40px 10%;
+        padding: 0;
+        height: auto;
+    }
     .video {
         overflow: hidden;
         padding-top: 47%;
