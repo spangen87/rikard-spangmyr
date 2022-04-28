@@ -83,9 +83,20 @@ The accessibility was tested using [Lighthouse](https://developers.google.com/we
 - SEO shows Search Engine Optimisation.
 
 Results for [CES UDM](https://spangen87.github.io/rikard-spangmyr/index.html) page:
+
 ![Picture of results från Lighthouse](assets/images/lighthouse-result.jpg)
 
 ### Validator Testing
+The site is tested with [W3C HTML Validator](https://validator.w3.org/) for the HTML and for the CSS with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
+At first there were a couple of minor errors, mostly typos that were easy to fix. 
+
+Here is the results:
+
+![Image validating the HTML of Index](assets/images/html-validation.jpg)
+
+![Image validating the CSS](assets/images/css-validation.jpg)
+
+![Image validating the HTML of Confiramtion page](assets/images/html-validation-confirmation-page.jpg)
 
 ## Bugs
 ### Solved
@@ -109,4 +120,6 @@ Results for [CES UDM](https://spangen87.github.io/rikard-spangmyr/index.html) pa
 - Photos are all from [CES](https://www.ces.eu/) exept from the picture of the team in the about section. That foto is taken an edited by the developer [Rikard Spångmyr](https://www.linkedin.com/in/rikard-sp%C3%A5ngmyr-126ab436/).
 - Photos were compressed using [TinyPNG](https://tinypng.com/).
 - The photos that needed editing is edited in [Adobe Photoshop](https://www.adobe.com/se/products/photoshop.html).
-### Code?
+
+## Acknowledgements
+
