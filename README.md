@@ -14,6 +14,8 @@ Wireframing was done before the project started. Some changes has been made on t
 ![Wireframe 1](assets/images/wireframe-1.jpg) ![Wireframe 2](assets/images/wireframe-2.jpg)
 ![Wireframe 3](assets/images/wireframe-3.jpg) ![Wireframe 4](assets/images/wireframe-4.jpg)
 ### Site Structure
+The CES UDM page have one scrollable page with three sections: [Why CES?](https://spangen87.github.io/rikard-spangmyr/#why-ces), [About](https://spangen87.github.io/rikard-spangmyr/#about) and [Contact](https://spangen87.github.io/rikard-spangmyr/#about). Each section is linked in the header navigation meny. There is also one more page that confirms that you have filled out the form, [Contact Confirmation](https://spangen87.github.io/rikard-spangmyr/contact-confirmation.html).
+The sections order i thought of. The Why CES should build an interest of the products, the About section should build some trust and finally the Contact section where the visitor can take the step to make contact is it's interesting to them.
 ### Design Choices
 #### Typography
 I choosed to use Roboto on the whole site. I wanted a clean look to the text and thought that Roboto was a good choice. To give the headings some additional styling I made them all uppercase and gave them some spacing between letters.
@@ -51,12 +53,39 @@ Since CES already have a color on the logo I used that in the color scheme of th
 - Below there is icons with links to social media pages. Those are for educational purpuse and will only link to the starting page for each social media.
 - There is also an icon to send an direct email to the company. This link will open the deafult email program for the visitor. This email is real and is working.
 
+#### Form confirmation page
+- This page validates the form input. There is no function for collectiong the data entered at this point. 
+- There is a link back to the index page so you don't need to use the back button in the browser. If you click the logo in the top it will also bring you back to index page.
+
+### Future Features
+- A working form that collects the data and sends an email to the company.
+- A shop page where you can buy simple single lockings directly from the page. This would need an e-commerce platform.
+
+## Technoligies Used
+- [HTML](https://html.spec.whatwg.org/) - is setting the structure and the content of the website.
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - providing the style for the pages.
+- [Gitpod](https://www.gitpod.io/#get-started) - used to develop and deploy the site.
+- [GitHub](https://github.com/)  - is used to host the site.
+- [Balsamiq](https://balsamiq.com/wireframes/) - was used to make the wireframes.
+
 ## Testing
-### Browser testing
+### Browser Testing
 - Tests on Safari for MacOS was made through [Browserstack](https://live.browserstack.com/) because I had no computer with MacOS available in the process.
 - Google Chrome was used during the develpment and there is no known issues in that browser.
 - The compability with Mozilla Firefox is tested through the development. No known issues in that browser.
 - Microsoft Edge is also tested with no known issues.
+
+### Accessibility Testing
+The accessibility was tested using [Lighthouse](https://developers.google.com/web/tools/lighthouse).
+- Performance shows how the page perform in terms of loading speed.
+- Acessibility shows how accessible the page are for all users.
+- Best Practices shows that the site uses industry standard practices.
+- SEO shows Search Engine Optimisation.
+
+Results for [CES UDM](https://spangen87.github.io/rikard-spangmyr/index.html) page:
+![Picture of results från Lighthouse](assets/images/lighthouse-result.jpg)
+
+### Validator Testing
 
 ## Bugs
 ### Solved
