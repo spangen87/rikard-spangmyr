@@ -235,7 +235,9 @@ This is how you make a clone of the repository:
 [Back to top](#contents)
 ## Acknowledgements
 This site was made as Portfolio Project 1 for the Full Stack Software Developer education at [Code Institute](https://codeinstitute.net/). I would like to thank the community and my classmates from Slack for support and also Code Institute for good learning that helped me finish this. A big thanks to my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) for helping me sorting out my thoughts and that you made me push myself until the end of this project.
+
 I would also like to thank my colleagus Daniel and Järker at [Best Las](https://bestlas.se/) for giving me the opportunity and time neccessary to be able to do this education.
+
 CES is a real company in Germany, and we at Best Las sell their products in Sweden. This page, or parts of it, will probably be used in some form at the company in the future.
 
 Rikard Spångmyr, 2022
