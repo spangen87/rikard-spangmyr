@@ -30,32 +30,46 @@ Since CES already have a color on the logo I used that in the color scheme of th
 - A navigation bar with links to the diffrent sections on the page. Home, Why CES?, About and Contact Us.
 - This will make it easier to navigate to preffered part of the page.
 
+![Image of navigation bar](assets/readme-images/navigation-bar.jpg)
+
 #### Hero image
 - An image that covers the full width of the site and that is fully responsive. 
 - This section gives the user a feel for the quality of the locks and what high end finishes that are available.
 
+![Image of hero image](assets/readme-images/hero-image.jpg)
+
 #### Why CES?
 - Three sections with a picture to each section. Shows what is unique with this lock and what safety functions there is.
 - Gives the user a quick overview with short text and descriptive images.
+
+![Image of why ces section](assets/readme-images/why-ces.jpg)
 
 #### About
 - Here the history av the company is presented with text and three pictures of the present and today. A video from the comapny shows some refereces for buildings using the locks today and some stories from the company.
 - The section aims to build trust towards the visitor by showing that they are developing all the time and have been around for nearly 200 years.
 - One of the pictures shows the Swedish team working with CES.
 
+![Image of about section](assets/readme-images/about.jpg)
+
 #### Contact Us
 - This section gives the user an easy way to contact the company and see where it's located.
 - There is a form to fill out with a message to the company to show that they are interested and want to know more. The form is for educational purpuse and no mail will be sent when submitting. The form has four fields to fill out which are required
 - There is also a map helping the visitor find the company if they want to visit in person. This address is real, but it's for educational reason, and no sales are made at this address.
+
+![Image us contact section](assets/readme-images/contact.jpg)
 
 #### Footer
 - The footer section shows the address, mail and phone number to the company.
 - Below there is icons with links to social media pages. Those are for educational purpuse and will only link to the starting page for each social media.
 - There is also an icon to send an direct email to the company. This link will open the deafult email program for the visitor. This email is real and is working.
 
+![Image of footer section](assets/readme-images/footer.jpg)
+
 #### Form confirmation page
 - This page validates the form input. There is no function for collectiong the data entered at this point. 
 - There is a link back to the index page so you don't need to use the back button in the browser. If you click the logo in the top it will also bring you back to index page.
+
+![Image of the form confirmation page](assets/readme-images/confirmation-page.jpg)
 
 ### Future Features
 - A working form that collects the data and sends an email to the company.
