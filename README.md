@@ -7,6 +7,41 @@ Welcome to [CES UDM](https://spangen87.github.io/rikard-spangmyr/).
 
 ![Image with different screen sizes of the page.](assets/readme-images/responsive.jpg)
 
+## Contents
+- [User Experience (UX)](#user-experience-ux)
+    - [Wireframes](#wireframes)
+    - [Site Structure](#site-structure)
+    - [Design Choices](#design-choices)
+        - [Typography](#typography)
+        - [Colors](#colors)
+- [Features](#features)
+    - [Existing Features](#existing-features)
+        - [Navigation Bar](#navigation-bar)
+        - [Hero Image](#hero-image) 
+        - [Why CES?](#why-ces)
+        - [About](#about)
+        - [Contact](#contact-us)
+        - [Footer](#footer)
+        - [Form Confirmation Page](#form-confirmation-page)
+    - [Future Features](#future-features)
+- [Technologies Used](#technoligies-used)
+- [Testing](#testing)
+    - [Browser Testing](#browser-testing)
+    - [Responsiveness Test](#responsiveness-test)
+    - [Accessibility Testing](#accessibility-testing)
+    - [Validator Testing](#validator-testing)   
+- [Bugs](#bugs)
+    - [Solved](#solved)
+- [Deployment](#deployment)
+    - [To Deploy The Project](#to-deploy-the-project)
+    - [Forking The Repository On GitHub](#forking-the-repository-on-github)
+    - [How To Clone The Project](#how-to-clone-the-project)   
+- [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media)
+- [Acknowledgements](#acknowledgements)    
+
+
 ## User Experience (UX)
 ### Wireframes
 Wireframing was done before the project started. Some changes has been made on the way because it looked better on different screen sizes. And it is now following the same proportions through the site.
