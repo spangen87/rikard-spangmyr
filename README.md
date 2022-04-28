@@ -146,6 +146,19 @@ The steps for doing this:
 ![Image showing how to fork](assets/readme-images/github-fork.jpg)
 
 ### How to clone the project
+This is how you make a clone of the repository:
+
+1. Click on the code tab under the repository name.
+2. Then click on "Code" button to the right above the files listed.
+3. Click on the clipboard icon to copy the URL.
+
+![Imge that shows where to find the URL for cloning](assets/readme-images/github-clone.jpg)
+
+4. Open Git Bash in the IDE of your choice.
+5. Change the working directory to where you want your cloned directory.
+6. Type `git clone` and then paste the URL that you copied.
+7. Press enter and clone has been finished.
+
 ## Credits
 ### Content
 - The font is picked from [Google Fonts](https://fonts.google.com/).
