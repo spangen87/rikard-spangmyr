@@ -7,6 +7,14 @@ Welcome to [CES UDM](https://spangen87.github.io/rikard-spangmyr/).
 
 ![Image with different screen sizes of the page.](assets/images/responsive.jpg)
 
+## User Experience (UX)
+### Wireframes
+### Site Structure
+### Design Choices
+#### Typography
+I choosed to use Roboto on the whole site. I wanted a clean look to the text and thought that Roboto was a good choice. To give the headings some additional styling I made them all uppercase and gave them some spacing between letters.
+#### Colors
+Since CES already have a color on the logo I used that in the color scheme of the site. Then I wanted to complement with some subtile colors and choosed a very light grey and also a dark grey color.
 ## Features
 
 ### Existing features
@@ -47,6 +55,8 @@ Welcome to [CES UDM](https://spangen87.github.io/rikard-spangmyr/).
 ## Bugs
 ### Solved
 - Found a bug that made ul in nav not completely in the center on smaller screens. I used dev tools to found that there was a padding to the left of the ul that made the distortion. Solved the problem by just adding padding 0 to the ul.
+- When doing the validation i realized i had put the script for [Font Awesome](https://fontawesome.com/) below the body. The issued was fixed by moving it inside the body at the bottom instead.
+- In the validating of the CSS file I found out that I had forgot to add size for the font at one place. The fix was simply to add the size in correct format.
 
 
 ## Deployment
