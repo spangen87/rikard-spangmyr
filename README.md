@@ -5,14 +5,14 @@ The target for this site is other companies such as real estate owners, schools,
 
 Welcome to [CES UDM](https://spangen87.github.io/rikard-spangmyr/).
 
-![Image with different screen sizes of the page.](assets/images/responsive.jpg)
+![Image with different screen sizes of the page.](assets/readme-images/responsive.jpg)
 
 ## User Experience (UX)
 ### Wireframes
 Wireframing was done before the project started. Some changes has been made on the way because it looked better on different screen sizes. And it is now following the same proportions through the site.
 
-![Wireframe 1](assets/images/wireframe-1.jpg) ![Wireframe 2](assets/images/wireframe-2.jpg)
-![Wireframe 3](assets/images/wireframe-3.jpg) ![Wireframe 4](assets/images/wireframe-4.jpg)
+![Wireframe 1](assets/readme-images/wireframe-1.jpg) ![Wireframe 2](assets/readme-images/wireframe-2.jpg)
+![Wireframe 3](assets/readme-images/wireframe-3.jpg) ![Wireframe 4](assets/readme-images/wireframe-4.jpg)
 ### Site Structure
 The CES UDM page have one scrollable page with three sections: [Why CES?](https://spangen87.github.io/rikard-spangmyr/#why-ces), [About](https://spangen87.github.io/rikard-spangmyr/#about) and [Contact](https://spangen87.github.io/rikard-spangmyr/#about). Each section is linked in the header navigation meny. There is also one more page that confirms that you have filled out the form, [Contact Confirmation](https://spangen87.github.io/rikard-spangmyr/contact-confirmation.html).
 The sections order i thought of. The Why CES should build an interest of the products, the About section should build some trust and finally the Contact section where the visitor can take the step to make contact is it's interesting to them.
@@ -22,7 +22,7 @@ I choosed to use Roboto on the whole site. I wanted a clean look to the text and
 #### Colors
 Since CES already have a color on the logo I used that in the color scheme of the site. Then I wanted to complement with some subtile colors and choosed a very light grey and also a dark grey color.
 
-![Image of the color scheme](assets/images/color-scheme.jpg)
+![Image of the color scheme](assets/readme-images/color-scheme.jpg)
 ## Features
 
 ### Existing features
@@ -75,6 +75,10 @@ Since CES already have a color on the logo I used that in the color scheme of th
 - The compability with Mozilla Firefox is tested through the development. No known issues in that browser.
 - Microsoft Edge is also tested with no known issues.
 
+### Responsiveness Test
+The responsive design for mobile devices is tested with [Googles Mobile Friendly Test](https://search.google.com/test/mobile-friendly).
+Manual testing is also made with [Google Chrome DevTools](https://developers.google.com/web/tools). In DevTools I have checked that screens with width from 2560px down to 375px looks good and working properly.
+
 ### Accessibility Testing
 The accessibility was tested using [Lighthouse](https://developers.google.com/web/tools/lighthouse).
 - Performance shows how the page perform in terms of loading speed.
@@ -84,7 +88,7 @@ The accessibility was tested using [Lighthouse](https://developers.google.com/we
 
 Results for [CES UDM](https://spangen87.github.io/rikard-spangmyr/index.html) page:
 
-![Picture of results från Lighthouse](assets/images/lighthouse-result.jpg)
+![Picture of results från Lighthouse](assets/readme-images/lighthouse-result.jpg)
 
 ### Validator Testing
 The site is tested with [W3C HTML Validator](https://validator.w3.org/) for the HTML and for the CSS with [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
@@ -92,11 +96,11 @@ At first there were a couple of minor errors, mostly typos that were easy to fix
 
 Here is the results:
 
-![Image validating the HTML of Index](assets/images/html-validation.jpg)
+![Image validating the HTML of Index](assets/readme-images/html-validation.jpg)
 
-![Image validating the CSS](assets/images/css-validation.jpg)
+![Image validating the CSS](assets/readme-images/css-validation.jpg)
 
-![Image validating the HTML of Confiramtion page](assets/images/html-validation-confirmation-page.jpg)
+![Image validating the HTML of Confiramtion page](assets/readme-images/html-validation-confirmation-page.jpg)
 
 ## Bugs
 ### Solved
