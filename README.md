@@ -38,6 +38,11 @@ Welcome to [CES UDM](https://spangen87.github.io/rikard-spangmyr/).
 - There is also an icon to send an direct email to the company. This link will open the deafult email program for the visitor. This email is real and is working.
 
 ## Testing
+### Browser testing
+- Tests on Safari for MacOS was made through [Browserstack](https://live.browserstack.com/) because I had no computer with MacOS available in the process.
+- Google Chrome was used during the develpment and there is no known issues in that browser.
+- The compability with Mozilla Firefox is tested through the development. No known issues in that browser.
+- Microsoft Edge is also tested with no known issues.
 
 ## Bugs
 ### Solved
