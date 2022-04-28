@@ -124,7 +124,28 @@ Here is the results:
 
 
 ## Deployment
+### To deploy the project
+This site is deployed using GitHub pages. This is the steps for deploying a site.
+1. When in the repository navigate to the Settings tab.
+2. Then navigate to the Pages link on the left side.
+3. Navihate to Source and select master/main branch and then click save.
+4. When page is refreshed and the site is published successfully, a green box will show it's finished.
 
+![Image of deployment stages](assets/readme-images/github-deploy.jpg)
+
+Here is the link to the repository: [https://github.com/spangen87/rikard-spangmyr](https://github.com/spangen87/rikard-spangmyr)
+
+### Forking the repository on GitHub
+A copy of the repository can be made. This copy can be viewed and changed on an other account without affecting the original repository.
+
+The steps for doing this:
+1. Make sure you are logged in on GitHub and then find the repository.
+2. On the top right there is a button called Fork.
+3. Press the Fork button to make a copy to your account.
+
+![Image showing how to fork](assets/readme-images/github-fork.jpg)
+
+### How to clone the project
 ## Credits
 ### Content
 - The font is picked from [Google Fonts](https://fonts.google.com/).
