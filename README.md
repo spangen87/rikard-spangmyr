@@ -3,6 +3,10 @@ This site is intended to show the benefits of the lock CES UDM. It will show som
 
 The target for this site is other companies such as real estate owners, schools, hospitals and other companies that have a lot of doors and on need of big and complex locking system.
 
+Welcome to [CES UDM](https://spangen87.github.io/rikard-spangmyr/).
+
+![Image with different screen sizes of the page.](assets/images/responsive.jpg)
+
 ## Features
 
 ### Existing features
@@ -36,14 +40,14 @@ The target for this site is other companies such as real estate owners, schools,
 ## Testing
 
 ## Bugs
-#### Solved
+### Solved
 - Found a bug that made ul in nav not completely in the center on smaller screens. I used dev tools to found that there was a padding to the left of the ul that made the distortion. Solved the problem by just adding padding 0 to the ul.
 
 
 ## Deployment
 
 ## Credits
-#### Content
+### Content
 - The font is picked from [Google Fonts](https://fonts.google.com/).
 - The icons came from [Font Awesome](https://fontawesome.com/).
 - The video is embedded from [Youtube](https://www.youtube.com/).
@@ -51,8 +55,8 @@ The target for this site is other companies such as real estate owners, schools,
 - Some text pieces is from the original site for [CES](https://www.ces.eu/).
 - Insipration to the form validating page was given from my mentor [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/) and from this repository on [GitHub](https://github.com/EwanColquhoun/wawaswoods).
 
-#### Media
+### Media
 - Photos are all from [CES](https://www.ces.eu/) exept from the picture of the team in the about section. That foto is taken an edited by the developer [Rikard Spångmyr](https://www.linkedin.com/in/rikard-sp%C3%A5ngmyr-126ab436/).
 - Photos were compressed using [TinyPNG](https://tinypng.com/).
 - The photos that needed editing is edited in [Adobe Photoshop](https://www.adobe.com/se/products/photoshop.html).
-#### Code?
+### Code?
