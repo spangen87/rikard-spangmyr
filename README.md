@@ -9,12 +9,18 @@ Welcome to [CES UDM](https://spangen87.github.io/rikard-spangmyr/).
 
 ## User Experience (UX)
 ### Wireframes
+Wireframing was done before the project started. Some changes has been made on the way because it looked better on different screen sizes. And it is now following the same proportions through the site.
+
+![Wireframe 1](assets/images/wireframe-1.jpg) ![Wireframe 2](assets/images/wireframe-2.jpg)
+![Wireframe 3](assets/images/wireframe-3.jpg) ![Wireframe 4](assets/images/wireframe-4.jpg)
 ### Site Structure
 ### Design Choices
 #### Typography
 I choosed to use Roboto on the whole site. I wanted a clean look to the text and thought that Roboto was a good choice. To give the headings some additional styling I made them all uppercase and gave them some spacing between letters.
 #### Colors
 Since CES already have a color on the logo I used that in the color scheme of the site. Then I wanted to complement with some subtile colors and choosed a very light grey and also a dark grey color.
+
+![Image of the color scheme](assets/images/color-scheme.jpg)
 ## Features
 
 ### Existing features
