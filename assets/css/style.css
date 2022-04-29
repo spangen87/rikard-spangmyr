@@ -5,6 +5,7 @@ body {
     color: #333;
     min-height: 100vh;
     padding-top: 53px;
+    margin: 0;
 }
 
 /*Logo and navigation links */
@@ -33,16 +34,16 @@ body {
     display: inline-block;
 }
 
+#nav-menu a:hover {
+    background-color: #005ba1;
+    color: #f2f2f2;
+}
+
 #nav-menu a {
     text-decoration: none;
     color: #333;
     text-transform: uppercase;
     letter-spacing: 5px;
-}
-
-#nav-menu a:hover {
-    background-color: #005ba1;
-    color: #f2f2f2;
 }
 
 header {
@@ -52,7 +53,7 @@ header {
     position: fixed;
     top: 0;
     width: 100%;
-    border-bottom: 3px solid #005ba1;
+    border-bottom: 2px solid #005ba1;
 }
 
 /*Hero image */
