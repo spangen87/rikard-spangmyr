@@ -52,7 +52,7 @@ Wireframing was done before the project started. Some changes has been made on t
 [Back to top](#contents)
 ### Site Structure
 The CES UDM page have one scrollable page with three sections: [Why CES?](https://spangen87.github.io/rikard-spangmyr/#why-ces), [About](https://spangen87.github.io/rikard-spangmyr/#about) and [Contact](https://spangen87.github.io/rikard-spangmyr/#about). Each section is linked in the header navigation meny. There is also one more page that confirms that you have filled out the form, [Contact Confirmation](https://spangen87.github.io/rikard-spangmyr/contact-confirmation.html).
-The sections order i thought of. The Why CES should build an interest of the products, the About section should build some trust and finally the Contact section where the visitor can take the step to make contact is it's interesting to them.
+The sections order is considered when deciding the visitors journey through the site. The Why CES should build an interest of the products, the About section should build some trust and finally the Contact section where the visitor can take the step to make contact if it's interesting to them.
 
 [Back to top](#contents)
 ### Design Choices
@@ -61,17 +61,17 @@ I choosed to use Roboto on the whole site. I wanted a clean look to the text and
 
 [Back to top](#contents)
 #### Colors
-Since CES already have a color on the logo I used that in the color scheme of the site. Then I wanted to complement with some subtile colors and choosed a very light grey and also a dark grey color.
+Since CES already have a color on the logo, I used that in the color scheme of the site. Then I wanted to complement with some subtile colors and choosed a very light grey and also a dark grey color.
 
 ![Image of the color scheme](assets/readme-images/color-scheme.jpg)
 
 [Back to top](#contents)
 ## Features
 
-### Existing features
+### Existing Features
 #### Navigation Bar
-- A navigation bar with links to the diffrent sections on the page. Why CES?, About and Contact Us.
-- This will make it easier to navigate to preffered part of the page.
+- A navigation bar with links to the different sections on the page. Why CES?, About and Contact Us.
+- This will make it easier to navigate to preferred part of the page.
 - Made the navigation bar sticky to the top so it will be easier to navigate when scrolling down.
 
 ![Image of navigation bar](assets/readme-images/sticky-header.jpg)
@@ -92,7 +92,7 @@ Since CES already have a color on the logo I used that in the color scheme of th
 
 [Back to top](#contents)
 #### About
-- Here the history av the company is presented with text and three pictures of the present and today. A video from the comapny shows some refereces for buildings using the locks today and some stories from the company.
+- Here the history of the company is presented with text and three pictures of the present and today. A video from the company shows some refereces for buildings using the locks today and some stories from the company.
 - The section aims to build trust towards the visitor by showing that they are developing all the time and have been around for nearly 200 years.
 - One of the pictures shows the Swedish team working with CES.
 
@@ -101,21 +101,21 @@ Since CES already have a color on the logo I used that in the color scheme of th
 [Back to top](#contents)
 #### Contact Us
 - This section gives the user an easy way to contact the company and see where it's located.
-- There is a form to fill out with a message to the company to show that they are interested and want to know more. The form is for educational purpuse and no mail will be sent when submitting. The form has four fields to fill out which are required
+- There is a form to fill out with a message to the company to show that they are interested and want to know more. The form is for educational purpuse and no email will be sent when submitting. The form has four fields to fill out which are all required.
 - There is also a map helping the visitor find the company if they want to visit in person. This address is real, but it's for educational reason, and no sales are made at this address.
 
-![Image us contact section](assets/readme-images/contact.jpg)
+![Image of contact section](assets/readme-images/contact.jpg)
 
 [Back to top](#contents)
 #### Footer
 - The footer section shows the address, mail and phone number to the company.
-- Below there is icons with links to social media pages. Those are for educational purpuse and will only link to the starting page for each social media.
+- Below there is icons with links to social media pages. Those are for educational purpose and will only link to the starting page for each social media.
 - There is also an icon to send an direct email to the company. This link will open the deafult email program for the visitor. This email is real and is working.
 
 ![Image of footer section](assets/readme-images/footer.jpg)
 
 [Back to top](#contents)
-#### Form confirmation page
+#### Form Confirmation Page
 - This page validates the form input. There is no function for collectiong the data entered at this point. 
 - There is a link back to the index page so you don't need to use the back button in the browser. If you click the logo in the top it will also bring you back to index page.
 
@@ -184,8 +184,8 @@ Here is the results:
 This site is deployed using GitHub pages. This is the steps for deploying a site.
 1. When in the repository navigate to the Settings tab.
 2. Then navigate to the Pages link on the left side.
-3. Navihate to Source and select master/main branch and then click save.
-4. When page is refreshed and the site is published successfully, a green box will show it's finished.
+3. Navigate to Source and select master/main branch and then click Save.
+4. When page is refreshed and the site is published successfully, a green box will show that it's finished.
 
 ![Image of deployment stages](assets/readme-images/github-deploy.jpg)
 
