@@ -3,6 +3,8 @@
 body {
     font-family: Roboto, sans-serif;
     color: #333;
+    min-height: 100vh;
+    padding-top: 53px;
 }
 
 /*Logo and navigation links */
@@ -14,8 +16,7 @@ body {
     margin-top: 15px;
     margin-bottom: 15px;
     width: 100px;
-    height: 100px;
-    
+    height: 100px;  
 }
 
 #nav-menu {
@@ -23,12 +24,10 @@ body {
     list-style: none;
     margin-right: auto;
     margin-left: auto;
-    font-size: 150%;
-    line-height: 50px;
+    font-size: 125%;
     text-align: center;
-    padding: 0
+    padding: 0;
 }
-
 
 #nav-menu li {
     margin-right: 20px;
@@ -48,9 +47,13 @@ body {
     color: #f2f2f2;
 }
 
-nav {
+header nav {
     text-align: center;
     background-color: #f2f2f2;
+    /* Sticky header - credits to: https://www.tutorialrepublic.com/codelab.php?topic=faq&file=css-fixed-positioned-header-and-footer */
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 /*Hero image */
@@ -274,16 +277,8 @@ address {
 /* For screens 600px wide and down */
 @media screen and (max-width: 600px) {
     #nav-menu {
-        margin-bottom: 20px;
-        line-height: 50px;
-        font-size: 125%;
-    }
-
-    #nav-menu li {
-       width: 100%;
-       margin-right: 0;
-       margin-left: 0;
-       
+        margin-bottom: 10px;
+        font-size: 80%;
     }
 
     #contact {
