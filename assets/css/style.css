@@ -8,6 +8,12 @@ body {
     margin: 0;
 }
 
+/* Added padding to the top so it appears correct with the sticky header */
+
+section {
+    padding-top: 10px;
+}
+
 /*Logo and navigation links */
 
 .logo {
@@ -75,7 +81,6 @@ header {
     float: left;
     padding: 5px;
     margin-left: 10%;
- 
 }
 
 .right-ces {
