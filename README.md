@@ -5,7 +5,7 @@ The target for this site is other companies such as real estate owners, schools,
 
 Welcome to [CES UDM](https://spangen87.github.io/rikard-spangmyr/).
 
-![Image with different screen sizes of the page.](assets/readme-images/responsive.jpg)
+![Image with different screen sizes of the page.](assets/readme-images/responsive-1.jpg)
 
 ## Contents
 - [User Experience (UX)](#user-experience-ux)
@@ -70,10 +70,11 @@ Since CES already have a color on the logo I used that in the color scheme of th
 
 ### Existing features
 #### Navigation Bar
-- A navigation bar with links to the diffrent sections on the page. Home, Why CES?, About and Contact Us.
+- A navigation bar with links to the diffrent sections on the page. Why CES?, About and Contact Us.
 - This will make it easier to navigate to preffered part of the page.
+- Made the navigation bar sticky to the top so it will be easier to navigate when scrolling down.
 
-![Image of navigation bar](assets/readme-images/navigation-bar.jpg)
+![Image of navigation bar](assets/readme-images/sticky-header.jpg)
 
 [Back to top](#contents)
 #### Hero image
