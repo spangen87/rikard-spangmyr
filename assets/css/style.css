@@ -11,22 +11,20 @@ body {
 
 .logo {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     margin-top: 15px;
     margin-bottom: 15px;
-    width: 100px;
-    height: 100px;  
+    margin-left: 30px;
+    float: left;
+    width: 50px;
+    height: 50px;  
 }
 
 #nav-menu {
-    display: inline-block;
     list-style: none;
-    margin-right: auto;
-    margin-left: auto;
+    margin-right: 30px;
     font-size: 125%;
-    text-align: center;
     padding: 0;
+    float: right;
 }
 
 #nav-menu li {
@@ -47,13 +45,14 @@ body {
     color: #f2f2f2;
 }
 
-header nav {
+header {
     text-align: center;
-    background-color: #f2f2f2;
+    background-color: white;
     /* Sticky header - credits to: https://www.tutorialrepublic.com/codelab.php?topic=faq&file=css-fixed-positioned-header-and-footer */
     position: fixed;
     top: 0;
     width: 100%;
+    border-bottom: 3px solid #005ba1;
 }
 
 /*Hero image */
@@ -221,7 +220,6 @@ form {
     width: 100%;
 }
 
-
 .input-field {
     width: 100%;
     margin-bottom: 10px;
@@ -285,7 +283,20 @@ address {
         width: 100%;
         margin: 0 auto;
     }
-}    
+
+    #nav-menu ul {
+        float: right;
+        width: 50%;
+    }
+
+    #nav-menu li {
+        margin-right: 20px;
+        margin-left: 20px;
+        display: block;
+    }
+}  
+
+    
 
 /* For screens 900px wide and down */
 @media screen and (max-width: 900px) {
